@@ -1,0 +1,7 @@
+#!bin/bash
+def multiply_eight():
+    return 8 * 8
+
+result = multiply_eight()
+print(result)
+
